@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import logo from '../assets/logo.png';
+import logo from '../assets/Ruva.jpeg';
 
 function Navbar() {
   return (
@@ -7,7 +7,12 @@ function Navbar() {
       <div className="container">
         {/* Left Side Company Name */}
         <Link className="navbar-brand fw-bold title-text" to="/">
-          Ruva
+          <img
+            src={logo}
+            alt="Company Logo"
+            className="img-fluid"
+            style={{ width: '120px', height: 'auto' }}
+          />
         </Link>
 
         {/* Navbar Toggle for Mobile */}

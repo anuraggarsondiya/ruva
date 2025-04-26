@@ -18,7 +18,7 @@ function About() {
             <img
               src={about}
               alt="Company"
-              className="img-fluid rounded shadow"
+              className="img-fluid"
             />
           </div>
 
