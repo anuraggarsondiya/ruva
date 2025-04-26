@@ -1,12 +1,13 @@
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import logo from '../assets/logo.png';
 
 function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top shadow-sm">
       <div className="container">
         {/* Left Side Company Name */}
-        <Link className="navbar-brand fw-bold" to="/">
-          MyCompany
+        <Link className="navbar-brand fw-bold title-text" to="/">
+          Ruva
         </Link>
 
         {/* Navbar Toggle for Mobile */}
@@ -26,13 +27,13 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">Home</Link>
+              <Link className="nav-link title-text" to="/">Home</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/about">About Us</Link>
+              <Link className="nav-link title-text" to="/about">About Us</Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/contact">Contact Us</Link>
+              <Link className="nav-link title-text" to="/contact">Contact Us</Link>
             </li>
           </ul>
         </div>

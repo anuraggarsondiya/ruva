@@ -1,10 +1,11 @@
 import React from 'react'
+import about from '../assets/about.svg'
 
 function About() {
   return (
-    <div style={{ marginTop: '80px' }}>
+    <div style={{ marginTop: '70px' }}>
       {/* Header Section */}
-      <div className="bg-primary text-white text-center py-5">
+      <div className="text-dark text-center py-5">
         <h1 className="fw-bold">About Us</h1>
         <p className="lead">We’re passionate about delivering quality and value.</p>
       </div>
@@ -15,7 +16,7 @@ function About() {
           {/* Image */}
           <div className="col-md-6 mb-4 mb-md-0">
             <img
-              src="https://via.placeholder.com/500x300"
+              src={about}
               alt="Company"
               className="img-fluid rounded shadow"
             />

@@ -2,9 +2,9 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div style={{ marginTop: '80px' }}>
+    <div style={{ marginTop: '70px' }}>
       {/* Header Section */}
-      <div className="bg-success text-white text-center py-5">
+      <div className="text-dark text-center py-5">
         <h1 className="fw-bold">Contact Us</h1>
         <p className="lead">We’d love to hear from you. Reach out anytime!</p>
       </div>
