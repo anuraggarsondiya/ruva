@@ -31,13 +31,13 @@ function Footer() {
             <h6 className="fw-bold">Connect With Us</h6>
             <div className="d-flex justify-content-center justify-content-md-start gap-3">
               <a href="https://facebook.com" target="_blank" className="">
-                <i className="bi bi-facebook fs-5 footer-link"></i>
+                <i className="bi bi-facebook fs-3 footer-link"></i>
               </a>
               <a href="https://instagram.com" target="_blank" className="">
-                <i className="bi bi-instagram fs-5 footer-link"></i>
+                <i className="bi bi-instagram fs-3 footer-link"></i>
               </a>
               <a href="https://wa.me/91XXXXXXXXXX" target="_blank" className="">
-                <i className="bi bi-whatsapp fs-5 footer-link"></i>
+                <i className="bi bi-whatsapp fs-3 footer-link"></i>
               </a>
             </div>
           </div>
