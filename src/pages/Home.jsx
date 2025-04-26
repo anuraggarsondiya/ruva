@@ -25,7 +25,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                   <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -45,7 +45,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -85,7 +85,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -108,7 +108,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -128,7 +128,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -148,7 +148,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
@@ -168,7 +168,7 @@ function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Inquiry on WhatsApp
+                  <i className="bi bi-whatsapp"></i> Inquiry on WhatsApp
                 </a>
               </div>
             </div>
